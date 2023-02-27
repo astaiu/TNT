@@ -1,0 +1,39 @@
+{
+    "name": "clover",
+    "description": " تيم TNT الافضل ",
+    "stack": "container",
+    "repository": "https://github.com/perdark/per-sed",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/SS7SS/Tepthon",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TEAM_CLOVER": {
+            "description": "تيم TNT الافضل",
+            "value": "",
+            "required": false
+        },
+        "TEAM_TNT": {
+            "description": " تيم TNT الافضل ",
+            "value": "",
+            "required": false
+        }
+    }
+}
