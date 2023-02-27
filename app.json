@@ -27,12 +27,12 @@
         },
         "TEAM_CLOVER": {
             "description": "تيم TNT الافضل",
-            "value": "",
+            "value": "اَللَّهُمَّ صِلْ عَلَى مُحَمَّدْ وَآلَ مُحَمَّدْ وَسَلَّمَ تَسْلِيمًا كَثِيرًا",
             "required": false
         },
         "TEAM_TNT": {
             "description": " تيم TNT الافضل ",
-            "value": "",
+            "value": "لاتنسى ذكر الله ",
             "required": false
         }
     }
