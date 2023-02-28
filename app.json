@@ -25,12 +25,12 @@
             "value": "",
             "required": true
         },
-        "TEAM_CLOVER": {
+        "TOKEN": {
             "description": "تيم TNT الافضل",
             "value": "اَللَّهُمَّ صِلْ عَلَى مُحَمَّدْ وَآلَ مُحَمَّدْ وَسَلَّمَ تَسْلِيمًا كَثِيرًا",
-            "required": false
+            "required": true
         },
-        "TEAM_TNT": {
+        "USER_NAME": {
             "description": " تيم TNT الافضل ",
             "value": "لاتنسى ذكر الله ",
             "required": false
